@@ -18,7 +18,7 @@ Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install
 
 ## Démo
 
- * [Démo]()
+ * [Démo](https://www.mautic.org/demo)
 
 ## Configuration
 
