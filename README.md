@@ -1,17 +1,16 @@
 # Mautic for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)  
-[![Install mautic with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
+[![Install Mautic with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
-> *This package allows you to install mautic quickly and simply on a YunoHost server.  
+> *This package allows you to install Mautic quickly and simply on a YunoHost server.  
 If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.*
 
 ## Overview
 
-
-**Shipped version:** 3.2.2
+**Shipped version:** 3.3.1
 
 ## Screenshots
 
