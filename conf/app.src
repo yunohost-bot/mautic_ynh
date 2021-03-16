@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/mautic/mautic/releases/download/3.2.2/3.2.2.zip
+SOURCE_SUM=ccca797b3eb4ac574d0517644f7e265a7faae4868c0678f4843c013b623cf286
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=3.2.2.zip
