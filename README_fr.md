@@ -10,7 +10,7 @@ Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install
 
 ## Vue d'ensemble
 
-**Version incluse :** 3.3.1
+**Version incluse :** 3.3.2
 
 ## Captures d'écran
 
