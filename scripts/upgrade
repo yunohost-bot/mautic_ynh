@@ -108,8 +108,14 @@ ynh_add_fpm_config --package="$extra_php_dependencies"
 #=================================================
 
 # Set permissions to app files
-chown -R $app: $final_path
-chmod -R 755 $final_path
+chown -R $app:www-data $final_path
+#chmod -R g+w $final_path/app/cache/
+#chmod -R g+w $final_path/app/logs/
+chmod -R g+w $final_path/app/config/
+chmod -R g+w $final_path/media/files/
+chmod -R g+w $final_path/media/images/
+chmod -R g+w $final_path/translations/
+
 
 #=================================================
 # RELOAD NGINX

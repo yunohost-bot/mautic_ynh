@@ -10,7 +10,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-**Shipped version:** 3.3.1
+**Shipped version:** 3.3.2
 
 ## Screenshots
 
@@ -39,8 +39,8 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 #### Supported architectures
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/mautic%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/mautic/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/mautic%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/mautic/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/mautic.svg)](https://ci-apps.yunohost.org/ci/apps/mautic/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/mautic.svg)](https://ci-apps-arm.yunohost.org/ci/apps/mautic/)
 
 ## Limitations
 
