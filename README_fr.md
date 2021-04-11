@@ -39,8 +39,8 @@ Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/mautic%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/mautic/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/mautic%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/mautic/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/mautic.svg)](https://ci-apps.yunohost.org/ci/apps/mautic/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/mautic.svg)](https://ci-apps-arm.yunohost.org/ci/apps/mautic/)
 
 ## Limitations
 
