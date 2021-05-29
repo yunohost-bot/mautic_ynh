@@ -10,7 +10,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-**Shipped version:** 3.3.2
+**Shipped version:** 4.0.0
 
 ## Screenshots
 
