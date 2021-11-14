@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Logiciel d'automatisation marketing open source.
+Logiciel d'automatisation marketing open source
 
 **Version incluse :** 4.0.0~ynh1
 
