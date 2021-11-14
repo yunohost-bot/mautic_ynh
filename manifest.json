@@ -3,8 +3,8 @@
     "id": "mautic",
     "packaging_format": 1,
     "description": {
-        "en": "Open Source Marketing Automation Software.",
-        "fr": "Logiciel d'automatisation marketing open source."
+        "en": "Open Source Marketing Automation Software",
+        "fr": "Logiciel d'automatisation marketing open source"
     },
     "version": "4.0.0~ynh1",
     "url": "https://www.mautic.org/",
@@ -33,8 +33,7 @@
         "install" : [
             {
                 "name": "domain",
-                "type": "domain",
-                "example": "example.com"
+                "type": "domain"
             },
             {
                 "name": "path",
