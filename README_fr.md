@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Logiciel d'automatisation marketing open source
 
-**Version incluse :** 4.0.0~ynh1
+**Version incluse :** 4.1.0~ynh1
 
 **Démo :** https://www.mautic.org/demo
 
