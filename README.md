@@ -15,9 +15,9 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Open Source Marketing Automation Software.
+Open Source Marketing Automation Software
 
-**Shipped version:** 4.0.0~ynh1
+**Shipped version:** 4.1.0~ynh1
 
 **Demo:** https://www.mautic.org/demo
 

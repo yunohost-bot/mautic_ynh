@@ -1,6 +1,6 @@
-SOURCE_URL=https://github.com/mautic/mautic/releases/download/4.0.0-beta/4.0.0-beta.zip
-SOURCE_SUM=aae03f6e283f5bf64024256eb7b7a81d2df84e4be4f12d5aaa76cc491d0e0e7f
+SOURCE_URL=https://github.com/mautic/mautic/releases/download/4.1.0/4.1.0.zip
+SOURCE_SUM=c24214de00995b8f0d6cb3924feb5379c5e082e6eb250968692175391a425540
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=4.0.0-beta.zip
+SOURCE_FILENAME=mautic.zip
