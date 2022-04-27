@@ -6,7 +6,7 @@
         "en": "Open Source Marketing Automation Software",
         "fr": "Logiciel d'automatisation marketing open source"
     },
-    "version": "4.2.1~ynh1",
+    "version": "4.2.2~ynh1",
     "url": "https://www.mautic.org/",
     "upstream": {
         "license": "GPL-3.0-only",
