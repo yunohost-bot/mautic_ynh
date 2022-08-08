@@ -13,7 +13,8 @@
         "website": "https://www.mautic.org/",
         "demo": "https://www.mautic.org/demo",
         "admindoc": "https://docs.mautic.org/en",
-        "code": "https://github.com/mautic/mautic"
+        "code": "https://github.com/mautic/mautic",
+        "cpe": "cpe:2.3:a:acquia:mautic"
     },
     "license": "GPL-3.0-only",
     "maintainer": {
