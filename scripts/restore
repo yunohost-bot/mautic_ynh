@@ -40,7 +40,8 @@ timezone="$(cat /etc/timezone)"
 #=================================================
 ynh_script_progression --message="Validating restoration parameters..." --weight=1
 
-test ! -d $final_path || ynh_die --message="There is already a directory: $final_path "
+test ! -d $final_path \
+	|| ynh_die --message="There is already a directory: $final_path "
 
 #=================================================
 # STANDARD RESTORATION STEPS
