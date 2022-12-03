@@ -17,8 +17,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Open Source Marketing Automation Software
 
-**Shipped version:** 4.4.3~ynh1
-
+**Shipped version:** 4.4.5~ynh1
 
 **Demo:** https://www.mautic.org/demo
 
