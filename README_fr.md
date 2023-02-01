@@ -5,25 +5,25 @@ It shall NOT be edited by hand.
 
 # Mautic pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)
 [![Installer Mautic avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Mautic rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Mautic rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
-Logiciel d'automatisation marketing open source
+Logiciel d'automatisation marketing
 
-**Version incluse :** 4.4.5~ynh2
+**Version incluse :** 4.4.6~ynh1
 
 **Démo :** https://www.mautic.org/demo
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Mautic](./doc/screenshots/mautic-Screenshots.jpg)
+![Capture d’écran de Mautic](./doc/screenshots/mautic-Screenshots.jpg)
 
 ## Avertissements / informations importantes
 
@@ -34,9 +34,9 @@ Logiciel d'automatisation marketing open source
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://www.mautic.org/>
-* Documentation officielle de l'admin : <https://docs.mautic.org/en>
-* Dépôt de code officiel de l'app : <https://github.com/mautic/mautic>
+* Site officiel de l’app : <https://www.mautic.org/>
+* Documentation officielle de l’admin : <https://docs.mautic.org/en>
+* Dépôt de code officiel de l’app : <https://github.com/mautic/mautic>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_mautic>
 * Signaler un bug : <https://github.com/YunoHost-Apps/mautic_ynh/issues>
 
@@ -52,4 +52,4 @@ ou
 sudo yunohost app upgrade mautic -u https://github.com/YunoHost-Apps/mautic_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
