@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Mautic for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![Working status](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)
+
 [![Install Mautic with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
 
 *[Lire ce readme en français.](./README_fr.md)*
