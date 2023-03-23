@@ -1,6 +1,0 @@
-SOURCE_URL=https://github.com/mautic/mautic/releases/download/4.4.7/4.4.7.zip
-SOURCE_SUM=a8364fc737c94122b59043726f82e2e7252aa3489d4e9bd5a95b2f70fb83658a
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=mautic.zip
