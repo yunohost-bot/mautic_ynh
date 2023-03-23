@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Logiciel d'automatisation marketing
+Marketing Automation Software
 
 **Version incluse :** 4.4.7~ynh1
 
