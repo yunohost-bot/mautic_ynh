@@ -22,7 +22,6 @@ fpm_usage="low"
 #=================================================
 # STORE SETTINGS FROM MANIFEST
 #=================================================
-ynh_script_progression --message="Storing installation settings..." --weight=1
 
 ynh_app_setting_set --app=$app --key=fpm_footprint --value=$fpm_footprint
 ynh_app_setting_set --app=$app --key=fpm_free_footprint --value=$fpm_free_footprint
@@ -67,26 +66,6 @@ ynh_script_progression --message="Setuping a cron..."
 
 ynh_add_config --template="../conf/cron" --destination="/etc/cron.d/$app"
 chmod 644 "/etc/cron.d/$app"
-
-#=================================================
-# SEND A README FOR THE ADMIN
-#=================================================
-ynh_script_progression --message="Sending a readme for the admin..."
-
-message="Mautic was successfully installed :)
-
-Please open your $app domain: https://$domain$path
-
-Complete the registration process from the setup page displayed.
-Details for MySQL database to be enterted while registration process:
-
-Database login:    $app
-Database name:     $app
-Database password: $db_pwd
-
-If you are facing any problem or want to improve this app, please open a new issue here: https://github.com/YunoHost-Apps/mautic_ynh/issues"
-
-ynh_send_readme_to_admin "$message"
 
 #=================================================
 # END OF SCRIPT
