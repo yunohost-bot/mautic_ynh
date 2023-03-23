@@ -26,13 +26,6 @@ Logiciel d'automatisation marketing
 
 ![Capture d’écran de Mautic](./doc/screenshots/mautic-Screenshots.jpg)
 
-## Avertissements / informations importantes
-
-## Configuration
-
- * Après l'installation, vous recevrez un e-mail avec le mot de passe DB.
- * Pour se connecter à Mautic `https://mautic.example.com/s/login`.
-
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://www.mautic.org/>
