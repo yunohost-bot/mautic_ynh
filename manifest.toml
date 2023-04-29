@@ -39,8 +39,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/mautic/mautic/releases/download/4.4.7/4.4.7.zip"
-        sha256 = "a8364fc737c94122b59043726f82e2e7252aa3489d4e9bd5a95b2f70fb83658a"
+        url = "https://github.com/mautic/mautic/releases/download/4.4.8/4.4.8.zip"
+        sha256 = "e238648fb0c31e500383ac7b93e04b3a2dfcfd2335b756db36907c2ffd0a60ac"
         in_subdir = false
 
     [resources.system_user]
