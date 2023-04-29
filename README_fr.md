@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Mautic pour YunoHost
 
 [![Niveau d’intégration](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)
+
 [![Installer Mautic avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
 
 *[Read this readme in english.](./README.md)*
@@ -17,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Logiciel d'automatisation marketing
 
-**Version incluse :** 4.4.6~ynh1
+**Version incluse :** 4.4.8~ynh1
 
 **Démo :** https://www.mautic.org/demo
 
