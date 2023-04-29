@@ -5,7 +5,7 @@ name = "Mautic"
 description.en = "Marketing Automation Software"
 description.fr = "Logiciel d'automatisation marketing"
 
-version = "4.4.7~ynh1"
+version = "4.4.8~ynh1"
 
 maintainers = ["eric_G"]
 
