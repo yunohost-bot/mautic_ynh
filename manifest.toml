@@ -17,7 +17,7 @@ admindoc = "https://docs.mautic.org/en"
 code = "https://github.com/mautic/mautic"
 
 [integration]
-yunohost = ">= 11.1.18"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -42,6 +42,7 @@ ram.runtime = "50M"
         url = "https://github.com/mautic/mautic/releases/download/4.4.8/4.4.8.zip"
         sha256 = "e238648fb0c31e500383ac7b93e04b3a2dfcfd2335b756db36907c2ffd0a60ac"
         in_subdir = false
+        autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
