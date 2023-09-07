@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Marketing Automation Software
 
-**Version incluse :** 4.4.9~ynh1
+**Version incluse :** 4.4.8~ynh1
 
 **Démo :** https://www.mautic.org/demo
 
