@@ -31,7 +31,6 @@ Marketing Automation Software
 * Site officiel de l’app : <https://www.mautic.org/>
 * Documentation officielle de l’admin : <https://docs.mautic.org/en>
 * Dépôt de code officiel de l’app : <https://github.com/mautic/mautic>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_mautic>
 * Signaler un bug : <https://github.com/YunoHost-Apps/mautic_ynh/issues>
 
 ## Informations pour les développeurs
