@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Logiciel d'automatisation marketing
 
-**Version incluse :** 4.4.10~ynh1
+**Version incluse :** 5.0.1~ynh1
 
 **Démo :** https://www.mautic.org/demo
 
@@ -38,7 +38,7 @@ Logiciel d'automatisation marketing
 * Site officiel de l’app : <https://www.mautic.org/>
 * Documentation officielle de l’admin : <https://docs.mautic.org/en>
 * Dépôt de code officiel de l’app : <https://github.com/mautic/mautic>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_mautic>
+* YunoHost Store: <https://apps.yunohost.org/app/mautic>
 * Signaler un bug : <https://github.com/YunoHost-Apps/mautic_ynh/issues>
 
 ## Informations pour les développeurs
