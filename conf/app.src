@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/mautic/mautic/releases/download/4.4.10/4.4.10.zip
-SOURCE_SUM=2fbabafb32e57534d7e76427692aa7b5a08fe0a53e10a89dc0e64fa51fac3bec
+SOURCE_URL=https://github.com/mautic/mautic/releases/download/5.0.1/5.0.1.zip
+SOURCE_SUM=450dac1e24ad4f6a33ce18797d0cd2251c5c226c8c21ec250b666e8d586f7ec3
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=false
