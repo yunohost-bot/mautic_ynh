@@ -1,19 +1,11 @@
 #!/bin/bash
 
 #=================================================
-# GENERIC START
-#=================================================
 # IMPORT GENERIC HELPERS
 #=================================================
 
 source _common.sh
 source /usr/share/yunohost/helpers
-
-#=================================================
-# RETRIEVE ARGUMENTS FROM THE MANIFEST
-#=================================================
-
-timezone="$(cat /etc/timezone)"
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
@@ -24,17 +16,17 @@ ynh_script_progression --message="Setting up source files..." --weight=2
 ynh_setup_source --dest_dir="$install_dir"
 
 chmod -R o-rwx "$install_dir"
-chown -R $app:www-data "$install_dir"
+chown -R "$app:www-data" "$install_dir"
 
-chmod -R g+w $install_dir/app/config/
-chmod -R g+w $install_dir/media/files/
-chmod -R g+w $install_dir/media/images/
-chmod -R g+w $install_dir/translations/
+chmod -R g+w "$install_dir/app/config/"
+chmod -R g+w "$install_dir/media/files/"
+chmod -R g+w "$install_dir/media/images/"
+chmod -R g+w "$install_dir/translations/"
 
 #=================================================
-# PHP-FPM CONFIGURATION
+# SYSTEM CONFIGURATION
 #=================================================
-ynh_script_progression --message="Configuring PHP-FPM..." --weight=1
+ynh_script_progression --message="Adding system configurations related to $app..." --weight=1
 
 # Create a dedicated PHP-FPM config
 ynh_add_fpm_config
