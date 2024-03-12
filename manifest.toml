@@ -41,8 +41,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/mautic/mautic/releases/download/5.0.0-alpha1/5.0.0-alpha1.zip"
-        sha256 = "7ada7244b17a0cf6b051436595cf076d85bc9ffd059364729c63f485bb9cfbae"
+        url = "https://github.com/mautic/mautic/releases/download/5.0.2/5.0.2.zip"
+        sha256 = "b20f7fb19d846229e45bd572ff191a3f3e0cf43afea2887bc887119db1950901"
         in_subdir = false
         autoupdate.strategy = "latest_github_tag"
 
@@ -53,7 +53,7 @@ ram.runtime = "50M"
 
     [resources.permissions]
     main.url = "/"
-    
+
     [resources.apt]
     packages = "mariadb-server, php8.0-imap, php8.0-gmp, php8.0-curl, php8.0-intl, php8.0-mbstring, php8.0-xmlrpc, php8.0-mysql, php8.0-bcmath, php8.0-gd, php8.0-xml, php8.0-cli, php8.0-zip"
 
