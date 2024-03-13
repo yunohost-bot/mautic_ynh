@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Logiciel d'automatisation marketing
+Marketing Automation Software
 
 **Version incluse :** 5.0.2~ynh1
 
@@ -25,13 +25,6 @@ Logiciel d'automatisation marketing
 ## Captures d’écran
 
 ![Capture d’écran de Mautic](./doc/screenshots/mautic-Screenshots.jpg)
-
-## Avertissements / informations importantes
-
-## Configuration
-
- * Après l'installation, vous recevrez un e-mail avec le mot de passe DB.
- * Pour se connecter à Mautic `https://mautic.example.com/s/login`.
 
 ## Documentations et ressources
 

@@ -26,13 +26,6 @@ Marketing Automation Software
 
 ![Screenshot of Mautic](./doc/screenshots/mautic-Screenshots.jpg)
 
-## Disclaimers / important information
-
-## Configuration
-
- * After installation you will receive an email with the DB password.
- * To login to Mautic `https://mautic.example.com/s/login`.
-
 ## Documentation and resources
 
 * Official app website: <https://www.mautic.org/>

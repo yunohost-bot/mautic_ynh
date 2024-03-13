@@ -1,6 +1,0 @@
-SOURCE_URL=https://github.com/mautic/mautic/releases/download/5.0.2/5.0.2.zip
-SOURCE_SUM=b20f7fb19d846229e45bd572ff191a3f3e0cf43afea2887bc887119db1950901
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=mautic.zip
