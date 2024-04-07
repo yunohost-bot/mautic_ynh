@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Marketing Automation Software
 
-**Version incluse :** 5.0.2~ynh1
+**Version incluse :** 5.0.0~ynh1
 
 **Démo :** <https://www.mautic.org/demo>
 
