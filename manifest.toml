@@ -1,0 +1,61 @@
+packaging_format = 2
+
+id = "mautic"
+name = "Mautic"
+description.en = "Marketing Automation Software"
+description.fr = "Logiciel d'automatisation marketing"
+
+version = "5.0.0~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "GPL-3.0-only"
+website = "https://www.mautic.org/"
+demo = "https://www.mautic.org/demo"
+admindoc = "https://docs.mautic.org/en"
+code = "https://github.com/mautic/mautic"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.init_main_permission]
+    help.en = "If enabled, Mautic will be accessible by people who do not have an account. This can be changed later via the webadmin."
+    help.fr = "Si cette case est cochée, Mautic sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/mautic/mautic/releases/download/5.0.2/5.0.2.zip"
+        sha256 = "b20f7fb19d846229e45bd572ff191a3f3e0cf43afea2887bc887119db1950901"
+        in_subdir = false
+        autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+    allow_email = true
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "mariadb-server, php8.0-imap, php8.0-gmp, php8.0-curl, php8.0-intl, php8.0-mbstring, php8.0-xmlrpc, php8.0-mysql, php8.0-bcmath, php8.0-gd, php8.0-xml, php8.0-cli, php8.0-zip"
+
+    [resources.database]
+    type = "mysql"

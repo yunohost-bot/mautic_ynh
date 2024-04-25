@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Mautic with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mautic)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Mautic quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -18,20 +18,15 @@ It shall NOT be edited by hand.
 
 Marketing Automation Software
 
-**Shipped version:** 5.0.2~ynh1
+With Mautic, website visitors can be tracked and converted into identified contacts using forms. Anonymous and identified contacts can be divided into segments and assigned to campaigns - either on the basis of segments or forms. These campaigns contain workflows to provide the contacts with further information and advertising material or to organize the contacts
+
+**Shipped version:** 5.0.0~ynh1
 
 **Demo:** <https://www.mautic.org/demo>
 
 ## Screenshots
 
 ![Screenshot of Mautic](./doc/screenshots/mautic-Screenshots.jpg)
-
-## Disclaimers / important information
-
-## Configuration
-
- * After installation you will receive an email with the DB password.
- * To login to Mautic `https://mautic.example.com/s/login`.
 
 ## Documentation and resources
 

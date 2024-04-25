@@ -16,22 +16,17 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Logiciel d'automatisation marketing
+Marketing Automation Software
 
-**Version incluse :** 5.0.2~ynh1
+With Mautic, website visitors can be tracked and converted into identified contacts using forms. Anonymous and identified contacts can be divided into segments and assigned to campaigns - either on the basis of segments or forms. These campaigns contain workflows to provide the contacts with further information and advertising material or to organize the contacts
+
+**Version incluse :** 5.0.0~ynh1
 
 **Démo :** <https://www.mautic.org/demo>
 
 ## Captures d’écran
 
 ![Capture d’écran de Mautic](./doc/screenshots/mautic-Screenshots.jpg)
-
-## Avertissements / informations importantes
-
-## Configuration
-
- * Après l'installation, vous recevrez un e-mail avec le mot de passe DB.
- * Pour se connecter à Mautic `https://mautic.example.com/s/login`.
 
 ## Documentations et ressources
 
