@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Mautic
+# YunoHost 上的 Mautic
 
 [![集成程度](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![工作状态](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)
 
