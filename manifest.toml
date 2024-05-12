@@ -41,8 +41,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/mautic/mautic/archive/refs/tags/5.0.4.tar.gz"
-        sha256 = "d391742324abcaad38ed1495c02051f5cf4a6a07e6af2f17c1f0b6a81a8dc6be"
+        url = "https://github.com/mautic/mautic/releases/download/5.0.4/5.0.4.zip"
+        sha256 = "3854f4cf32486af6476834328f2e45f337ac65f7bfca284b699c2c7a57b394f5"
         in_subdir = false
         autoupdate.strategy = "latest_github_tag"
 
