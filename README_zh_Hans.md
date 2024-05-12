@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Mautic
+# YunoHost 上的 Mautic
 
 [![集成程度](https://dash.yunohost.org/integration/mautic.svg)](https://dash.yunohost.org/appci/app/mautic) ![工作状态](https://ci-apps.yunohost.org/ci/badges/mautic.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/mautic.maintain.svg)
 
@@ -20,7 +20,7 @@ Marketing Automation Software
 
 With Mautic, website visitors can be tracked and converted into identified contacts using forms. Anonymous and identified contacts can be divided into segments and assigned to campaigns - either on the basis of segments or forms. These campaigns contain workflows to provide the contacts with further information and advertising material or to organize the contacts
 
-**分发版本：** 5.0.0~ynh1
+**分发版本：** 5.0.4~ynh1
 
 **演示：** <https://www.mautic.org/demo>
 
