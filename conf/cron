@@ -1,8 +1,8 @@
-0,5,10,15,20,25,30,35,40,45,50,55 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:segments:update > /dev/null 2>&1
-3,8,12,17,22,27.32.37,42,47,52,57 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:campaigns:update > /dev/null 2>&1
-1,6,11,16,21,26,31,36,41,46,51,56 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:campaigns:trigger > /dev/null 2>&1
-*/10 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:broadcasts:send > /dev/null 2>&1
-0,15,30,45 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:emails:send > /dev/null 2>&1
-15 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:webhooks:process > /dev/null 2>&1
-0 0 1 * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:maintenance:cleanup –-days-old=90 –no-interaction > /dev/null 2>&1
-0 4 * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/console mautic:iplookup:download > /dev/null 2>&1
+0,5,10,15,20,25,30,35,40,45,50,55 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:segments:update > /dev/null 2>&1
+3,8,12,17,22,27.32.37,42,47,52,57 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:campaigns:update > /dev/null 2>&1
+1,6,11,16,21,26,31,36,41,46,51,56 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:campaigns:trigger > /dev/null 2>&1
+*/10 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:broadcasts:send > /dev/null 2>&1
+0,15,30,45 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:emails:send > /dev/null 2>&1
+15 * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:webhooks:process > /dev/null 2>&1
+0 0 1 * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:maintenance:cleanup –-days-old=90 –no-interaction > /dev/null 2>&1
+0 4 * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/console mautic:iplookup:download > /dev/null 2>&1
